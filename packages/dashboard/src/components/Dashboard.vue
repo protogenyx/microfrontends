@@ -278,7 +278,7 @@ export default {
     Button,
     Column,
     DataTable,
-    Chart,
+    Chart
   },
   data() {
     return {
